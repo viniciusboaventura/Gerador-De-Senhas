@@ -1,0 +1,16 @@
+C:\Users\vinic\source\repos\Projeto_Maua2\bin\Debug\net6.0-windows\Projeto_Maua2.exe
+C:\Users\vinic\source\repos\Projeto_Maua2\bin\Debug\net6.0-windows\Projeto_Maua2.deps.json
+C:\Users\vinic\source\repos\Projeto_Maua2\bin\Debug\net6.0-windows\Projeto_Maua2.runtimeconfig.json
+C:\Users\vinic\source\repos\Projeto_Maua2\bin\Debug\net6.0-windows\Projeto_Maua2.dll
+C:\Users\vinic\source\repos\Projeto_Maua2\bin\Debug\net6.0-windows\Projeto_Maua2.pdb
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.Form1.resources
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.csproj.GenerateResource.cache
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.dll
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\refint\Projeto_Maua2.dll
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.pdb
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\Projeto_Maua2.genruntimeconfig.cache
+C:\Users\vinic\source\repos\Projeto_Maua2\obj\Debug\net6.0-windows\ref\Projeto_Maua2.dll

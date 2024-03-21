@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+Mhot+GQN+AjXr9L8qg7m+AI7XS2ZMVZRuNr53b0Bmv8aa3EzTxYRuV4Mbazh9LwsIg6ZGo+ZJycALifNYhZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinic\\source\\repos\\Projeto_Maua2\\Projeto_Maua2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\vinic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
